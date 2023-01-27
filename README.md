@@ -11,7 +11,7 @@
 - Roubaha Yanis
 - Proux Angélique
 
-### Architecture du dépôt
+#### Architecture du dépôt
 
 - Code : dossier contenant le code nécessaire pour récupérer les données de température et d'humidité et les envoyer au broker Raspberry
 - Screenshots : dossier contenant des captures d'écran des différentes étapes (publier sur le topic ESIEA/grp1, souscrire à ce topic et recevoir les données, convertir ces données au format Sparkplug B avec NodeRed et les envoyer au RIO)
