@@ -1,1 +1,1 @@
-# Solution-num-rique-Groupe1
+# Solution numrique-Groupe1
