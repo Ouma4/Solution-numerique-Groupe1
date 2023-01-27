@@ -1,6 +1,6 @@
 # ESIEA 2023
 ## Solutions numériques pour l'industrie 4.0
-### Travaux pratiques 26&27 janvier
+### Travaux pratiques – 26&27 janvier
 
 #### Équipe
 
